@@ -1,0 +1,17 @@
+﻿{
+	"bindings": [
+		{
+			"type": "httpTrigger",
+			"direction": "in",
+			"name": "req",
+			"methods": [ "get" ],
+			"route": "resizeimage"
+		},
+		{
+			"type": "http",
+			"direction": "out",
+			"name": "res"
+		}
+	],
+	"disabled": false
+}

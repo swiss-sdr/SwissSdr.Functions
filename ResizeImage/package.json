@@ -1,0 +1,14 @@
+{
+	"name": "createthumbnail-function",
+	"version": "0.0.0",
+	"main": "run.js",
+	"author": {
+		"name": "Wagi"
+	},
+	"dependencies": {
+		"jimp": "^0.2.27",
+		"request": "^2.79.0",
+		"smartcrop": "^1.1.1"
+	},
+	"devDependencies": {}
+}

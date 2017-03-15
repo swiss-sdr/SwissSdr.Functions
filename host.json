@@ -1,0 +1,10 @@
+{
+	"id": "f4ca0b20b5b84d91b73ba38c56aedcca",
+	"functionTimeout": "00:05:00",
+	"queues": {
+		"batchSize": 2
+	},
+	"serviceBus": {
+		"maxConcurrentCalls": 2
+	}
+}
